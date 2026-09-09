@@ -1,0 +1,32 @@
+# Web framework
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+
+# Database
+sqlalchemy==2.0.35
+psycopg2-binary==2.9.10
+alembic==1.13.2
+
+# Validation & settings
+pydantic==2.9.2
+pydantic-settings==2.5.2
+
+# YouTube API
+google-api-python-client==2.145.0
+
+# Environment
+python-dotenv==1.0.1
+
+# Frontend
+streamlit==1.39.0
+pandas==2.2.3
+plotly==5.24.1
+requests==2.32.3
+
+# Testing
+pytest==8.3.3
+httpx==0.27.2
+pytest-asyncio==0.24.0
+
+# Utilities
+isodate==0.6.1
