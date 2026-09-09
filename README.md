@@ -251,3 +251,6 @@ Streamlit :8501  ──HTTP──▶  FastAPI :8000
 ## 📝 License
 
 MIT License — free to use and modify.
+
+## Screen Recording Link (demo)
+https://drive.google.com/file/d/1FyvDXnnO1nvWvUjQ8weLnQveNz0y4ffn/view?usp=drivesdk
